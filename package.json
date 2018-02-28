@@ -1,0 +1,24 @@
+{
+  "name": "validator",
+  "version": "0.0.1",
+  "description": "A simple validator on top of joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshendra/validator.git"
+  },
+  "keywords": [
+    "meta",
+    "validator",
+    "js"
+  ],
+  "author": "Akshendra Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshendra/validator/issues"
+  },
+  "homepage": "https://github.com/akshendra/validator#readme"
+}
