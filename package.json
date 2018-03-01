@@ -23,6 +23,6 @@
   "homepage": "https://github.com/akshendra/validator#readme",
   "dependencies": {
     "joi": "^13.1.2",
-    "misc": "github:akshendra/utils"
+    "misc": "github:akshendra/utils#v0.0.1"
   }
 }
