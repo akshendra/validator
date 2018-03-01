@@ -1,6 +1,6 @@
 {
-  "name": "validator",
-  "version": "0.0.1",
+  "name": "@akshendra/validator",
+  "version": "0.0.2",
   "description": "A simple validator on top of joi",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/akshendra/validator#readme",
   "dependencies": {
-    "joi": "^13.1.2",
-    "misc": "github:akshendra/utils#v0.0.1"
+    "@akshendra/misc": "github:akshendra/utils#0.0.2",
+    "joi": "^13.1.2"
   }
 }

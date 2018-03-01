@@ -1,6 +1,6 @@
 
 const joi = require('joi');
-const misc = require('misc');
+const misc = require('@akshendra/misc');
 
 const j = joi.extend({
   base: joi.string(),
